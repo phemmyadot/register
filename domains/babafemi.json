@@ -1,0 +1,14 @@
+{
+  "description": "Babafemi's self hosted apps",
+  "repo": "https://github.com/babafemicodes",
+  "owner": {
+    "username": "babafemicodes",
+    "email": "your@email.com"
+  },
+  "record": {
+    "NS": [
+      "rosalyn.ns.cloudflare.com",
+      "titan.ns.cloudflare.com"
+    ]
+  }
+}
